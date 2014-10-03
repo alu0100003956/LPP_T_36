@@ -7,3 +7,7 @@ Carlos Gregorio Martin Perez
 
 La compilación es la tradución a lenguaje de maquina del fichero
 fuente y la interpretación es la ejecución secuencial del fichero fuente.
+
+¿Que significado tiene la primera línea del fichero hellWorld.sh?
+
+Indica el interprete de comandos que se va a utilizar
